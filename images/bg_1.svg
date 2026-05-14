@@ -1,0 +1,18 @@
+<svg width="966" height="1806" viewBox="0 0 966 1806" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M963 926.72V38C963 18.67 947.33 3 928 3H38.58C18.93 3 3 18.93 3 38.58V926.71C3 927.03 3.25 927.28 3.57 927.28C23.03 927.59 38.71 943.46 38.71 962.99C38.71 982.52 23.03 998.39 3.57 998.7C3.25 998.7 3 998.96 3 999.27V1767.99C3 1787.32 18.67 1802.99 38 1802.99H928C947.33 1802.99 963 1787.32 963 1767.99V999.27C963 998.95 962.75 998.7 962.43 998.7C942.97 998.39 927.29 982.52 927.29 962.99C927.29 943.46 942.97 927.59 962.43 927.28C962.75 927.28 963 927.02 963 926.71V926.72Z" fill="white"/>
+<path d="M3.57 998.71C3.25 998.71 3 998.97 3 999.28V1768C3 1787.33 18.67 1803 38 1803H928C947.33 1803 963 1787.33 963 1768V999.28C963 998.96 962.75 998.71 962.43 998.71C942.97 998.4 927.29 982.53 927.29 963H38.71C38.71 982.53 23.03 998.4 3.57 998.71Z" fill="#FFFAE0"/>
+<path d="M64 963H103.9" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M130.51 963H170.41" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M197.02 963H236.92" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M263.52 963H303.43" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M330.03 963H369.94" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M396.54 963H436.44" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M463.05 963H502.95" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M529.56 963H569.46" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M596.06 963H635.97" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M662.57 963H702.48" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M729.08 963H768.98" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M795.59 963H835.49" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M862.1 963H902" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M963 927.29V38C963 18.67 947.33 3 928 3H38C18.67 3 3 18.67 3 38V927.29C22.72 927.29 38.71 943.28 38.71 963C38.71 982.72 22.72 998.71 3 998.71V1768C3 1787.33 18.67 1803 38 1803H928C947.33 1803 963 1787.33 963 1768V998.71C943.28 998.71 927.29 982.72 927.29 963C927.29 943.28 943.28 927.29 963 927.29Z" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+</svg>

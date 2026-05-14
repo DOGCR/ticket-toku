@@ -1,0 +1,19 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1080 1920L1080 0L0 0L0 1920H1080Z" fill="#EEE8AA"/>
+<path d="M1020 983.72V95C1020 75.67 1004.33 60 985 60H95.58C75.93 60 60 75.93 60 95.58V983.71C60 984.03 60.25 984.28 60.57 984.28C80.03 984.59 95.71 1000.46 95.71 1019.99C95.71 1039.52 80.03 1055.39 60.57 1055.7C60.25 1055.7 60 1055.96 60 1056.27V1824.99C60 1844.32 75.67 1859.99 95 1859.99H985C1004.33 1859.99 1020 1844.32 1020 1824.99V1056.27C1020 1055.95 1019.75 1055.7 1019.43 1055.7C999.97 1055.39 984.29 1039.52 984.29 1019.99C984.29 1000.46 999.97 984.59 1019.43 984.28C1019.75 984.28 1020 984.02 1020 983.71V983.72Z" fill="white"/>
+<path d="M60.57 1055.71C60.25 1055.71 60 1055.97 60 1056.28V1825C60 1844.33 75.67 1860 95 1860H985C1004.33 1860 1020 1844.33 1020 1825V1056.28C1020 1055.96 1019.75 1055.71 1019.43 1055.71C999.97 1055.4 984.29 1039.53 984.29 1020H95.71C95.71 1039.53 80.03 1055.4 60.57 1055.71Z" fill="#FFFAE0"/>
+<path d="M121 1020H160.9" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M187.51 1020H227.41" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M254.02 1020H293.92" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M320.52 1020H360.43" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M387.03 1020H426.94" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M453.54 1020H493.44" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M520.05 1020H559.95" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M586.56 1020H626.46" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M653.06 1020H692.97" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M719.57 1020H759.48" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M786.08 1020H825.98" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M852.59 1020H892.49" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M919.1 1020H959" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+<path d="M1020 984.29V95C1020 75.67 1004.33 60 985 60H95C75.67 60 60 75.67 60 95V984.29C79.72 984.29 95.71 1000.28 95.71 1020C95.71 1039.72 79.72 1055.71 60 1055.71V1825C60 1844.33 75.67 1860 95 1860H985C1004.33 1860 1020 1844.33 1020 1825V1055.71C1000.28 1055.71 984.29 1039.72 984.29 1020C984.29 1000.28 1000.28 984.29 1020 984.29Z" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
+</svg>
