@@ -27,3 +27,5 @@
 - 2026-05-25: Shutto作業後のスクリプト復帰
   - shop001.html〜shop026.html、shop028.html〜shop035.htmlのコメントアウト解除
   - get.htmlのsetTouch/shareblock_min.jsコメントアウト解除
+- 2026-05-25: info.htmlの対象施設リンク設定
+  - 対象施設4行にリンクを設定（相対パス2件、絶対パス2件）
