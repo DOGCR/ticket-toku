@@ -58,6 +58,66 @@
       padding: 6px 15px 2px 15px;
     }
 
+    .ticketoku-toppage .title-block.ticket-target-button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100% !important;
+      max-width: none !important;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-right: 0;
+      height: auto;
+      min-height: 50px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 12px;
+      padding-right: 12px;
+      text-align: center;
+      box-sizing: border-box;
+      flex: 0 0 auto;
+      min-width: 0;
+    }
+
+    .ticket-target-btn-wrap {
+      width: min(640px, 100%);
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 0 !important;
+    }
+
+    .ticket-target-btn-wrap+.ticket-target-btn-wrap {
+      margin-top: 10px !important;
+    }
+
+    .ticket-target-button-text {
+      padding-top: 0;
+      padding-bottom: 0;
+      display: block;
+      line-height: 1.2;
+      margin: 0;
+    }
+
+    .ticket-target-logo-wrapper {
+      width: 100%;
+      justify-content: center !important;
+      align-items: center !important;
+    }
+
+    @media screen and (min-width: 992px) {
+      .ticket-target-text-pc-nowrap {
+        white-space: nowrap;
+      }
+    }
+
+    @media screen and (max-width: 991px) {
+      .ticket-target-text-pc-nowrap {
+        white-space: normal;
+      }
+    }
+
     @media screen and (max-width: 479px) {
       .ticketoku-toppage .prize {
         padding-left: 10px;
@@ -150,17 +210,17 @@
                           <div><img src="images/howto-pc_02.svg" loading="lazy" alt=""></div>
                           <div class="read_content-copy">
                             <h3 class="heading-style-h6">※対象施設をご利用いただいた当日に限り有効です。<br>※対象の複数のショップやレストランでご利用いただけます。<br>※割引サービスは対象外の商品がございます。<br>※他キャンペーン・割引との併用はできません。<br>※優待サービス内容は予告なく変更される場合があります。予めご了承ください。<br>※レストラン＆カフェにてお持ち帰りの場合は税率が異なります。</h3>
-                            <div class="margin-bottom margin-medium">
-                              <div class="logo-wrapper">
-                                <div class="title-block">
-                                  <div class="text-block-4">チケ得参加店舗一覧 ↓</div>
+                            <div class="margin-bottom margin-medium ticket-target-btn-wrap">
+                              <div class="logo-wrapper ticket-target-logo-wrapper">
+                                <div class="title-block ticket-target-button">
+                                  <div class="text-block-4 ticket-target-button-text">チケ得参加店舗一覧 ↓</div>
                                 </div>
                               </div>
                             </div>
-                            <div class="margin-bottom margin-medium">
-                              <div class="logo-wrapper">
-                                <a href="https://www.toranomonhills.com/events/2026/04/0245.html" class="title-block w-inline-block">
-                                  <div class="text-block-4">虎ノ門ヒルズのチケ得対象店舗はこちら</div>
+                            <div class="margin-bottom margin-medium ticket-target-btn-wrap">
+                              <div class="logo-wrapper ticket-target-logo-wrapper">
+                                <a href="https://www.toranomonhills.com/events/2026/04/0245.html" class="title-block ticket-target-button w-inline-block">
+                                  <div class="text-block-4 ticket-target-button-text ticket-target-text-pc-nowrap">虎ノ門ヒルズのチケ得対象店舗はこちら</div>
                                 </a>
                               </div>
                             </div>
@@ -210,17 +270,17 @@
                           <div><img src="images/howto-sp_02.svg" loading="lazy" alt=""></div>
                           <div class="read_content-copy">
                             <h3 class="heading-style-h6">※対象施設をご利用いただいた当日に限り有効です。<br>※対象の複数のショップやレストランでご利用いただけます。<br>※割引サービスは対象外の商品がございます。<br>※他キャンペーン・割引との併用はできません。<br>※優待サービス内容は予告なく変更される場合があります。予めご了承ください。<br>※レストラン＆カフェにてお持ち帰りの場合は税率が異なります。</h3>
-                            <div class="margin-bottom margin-medium">
-                              <div class="logo-wrapper">
-                                <div class="title-block">
-                                  <div class="text-block-4">チケ得参加店舗一覧　↓</div>
+                            <div class="margin-bottom margin-medium ticket-target-btn-wrap">
+                              <div class="logo-wrapper ticket-target-logo-wrapper">
+                                <div class="title-block ticket-target-button">
+                                  <div class="text-block-4 ticket-target-button-text">チケ得参加店舗一覧　↓</div>
                                 </div>
                               </div>
                             </div>
-                            <div class="margin-bottom margin-medium">
-                              <div class="logo-wrapper">
-                                <a href="https://www.toranomonhills.com/events/2026/04/0245.html" class="title-block w-inline-block">
-                                  <div class="text-block-4">虎ノ門ヒルズのチケ得対象店舗はこちら</div>
+                            <div class="margin-bottom margin-medium ticket-target-btn-wrap">
+                              <div class="logo-wrapper ticket-target-logo-wrapper">
+                                <a href="https://www.toranomonhills.com/events/2026/04/0245.html" class="title-block ticket-target-button w-inline-block">
+                                  <div class="text-block-4 ticket-target-button-text ticket-target-text-pc-nowrap">虎ノ門ヒルズのチケ得対象店舗はこちら</div>
                                 </a>
                               </div>
                             </div>
