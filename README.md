@@ -32,3 +32,8 @@
 - 2026-05-25: info.htmlの導線表示を調整
   - 対象施設4リンクに下線表示を追加
   - 「虎ノ門ヒルズのチケ得対象店舗はこちら」ボタンを追加
+- 2026-06-01: MEETスクリプト有効化後の反映を整理
+  - shop001.html〜shop026.html、shop028.html〜shop035.htmlのMEETスクリプト有効状態を統一
+  - get.htmlのtouchcounter Cookieドメインを `www.azabudai-hills.com` に調整
+  - info.htmlで追加ボタンテキストの背景を透過に調整
+  - 未参照の `images/1-en.svg` を削除
